@@ -24,7 +24,8 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
-![image](https://github.com/user-attachments/assets/457f8b68-9848-4583-88b7-32caf45adf88)
+
+![image](https://github.com/user-attachments/assets/1d3380f1-ee2c-4a76-87c2-8ef003e95383)
 
 </div>
 
