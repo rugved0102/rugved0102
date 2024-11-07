@@ -29,6 +29,13 @@
 
 </div>
 
+## Hacktoberfest'24 Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+![image](https://github.com/user-attachments/assets/045c7724-40bf-40ff-bce1-d214fd62ed6d)
+
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rugved-junghare-80a068262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rugved junghare" height="30" width="40" /></a>
