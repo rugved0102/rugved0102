@@ -52,12 +52,30 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugved0102&show_icons=true&locale=en&layout=compact" alt="rugved0102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rugved0102&show_icons=true&locale=en" alt="rugved0102" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rugved0102&show_icons=true&locale=en" alt="rugved0102" /></p>
 ## Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rugved0102&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rugved0102&show_icons=true&theme=tokyonight&cache_seconds=1800" width="65%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved0102&layout=compact&langs_count=6&cache_seconds=1800&hide=html,css" width="45%" />
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugved0102&" alt="rugved0102" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rugved0102&" alt="rugved0102" /></p> -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rugved0102&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved0102&layout=compact&langs_count=6&hide=html,css&cache_seconds=1800" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rugved0102&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+
+</div>
+
